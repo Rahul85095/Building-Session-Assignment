@@ -1,0 +1,26 @@
+.middle{
+    margin: auto;
+    width: 60%;
+}
+.center{
+    text-align: center;
+}
+.right{
+    text-align: right;
+}
+td{
+    border: 1px solid black;
+}
+table{
+    border: 1px solid black;
+}
+img{
+    margin: auto;
+    width: 60%;
+}
+.green{
+    background-color: green;
+}
+.blue{
+    background-color: blue;
+}
