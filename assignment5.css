@@ -1,0 +1,13 @@
+.main{
+    background-image: url(https://www2.d125.org/applied_arts/teched/courses/WEB/portfolios/2014_FallP8/Rami_Portfolio_Period8/unit4_css/project2/cssProject2/grid.png);
+    height: 700px;
+    width: 800px;
+    margin: auto;
+}
+.longblock{
+    height: 40px;
+    width: 97%;
+    background-color: gray;
+    opacity: 0.8;
+    margin: auto;
+}
